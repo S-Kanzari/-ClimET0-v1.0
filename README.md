@@ -49,5 +49,8 @@ Notes:
 
 Author:
 -------
-S. KANZARI
+
+
+[![DOI](https://zenodo.org/badge/1001089213.svg)](https://doi.org/10.5281/zenodo.15652931)
+
 Date: June 2025
